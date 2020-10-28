@@ -1,1 +1,2 @@
 Test file
+For stashing added new line
