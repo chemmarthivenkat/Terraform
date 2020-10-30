@@ -1,2 +1,3 @@
 Test file
 For stashing added new line
+For checking fetch vs pull
